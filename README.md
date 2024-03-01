@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**lovelyoverflow/lovelyoverflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+- 국민대학교 소프트웨어학부 재학 (2020~)
+- 한국디지털미디어고등학교 해킹방어과 졸업 (2017 ~ 2019)
+  
+## AWARDS
+- 2021 제19회 임베디드SW 경진대회 지능형 휴머노이드 부문 최우수상
+- 2019 전국상업경진대회 비즈니스프로그래밍 부문 은상
+- 2018 안산시 청소년 Software-Up Programming Contest 최우수상
+- 2017 국민대학교 알고리즘 대회 장려상
+- 2016 한국정보올림피아드 경시부문 동상
+- 2016 전국 중학생 IT 올림피아드 프로그래밍 부문 동상
